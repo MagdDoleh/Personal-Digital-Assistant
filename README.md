@@ -45,4 +45,6 @@ A Raspberry Pi-powered personal productivity device developed as a senior capsto
 
 ## Hardware
 
-(Add Raspberry Pi photos here)
+The application was deployed on a Raspberry Pi with a touchscreen display and keyboard, allowing it to function as a standalone personal productivity device.
+
+<img src="Finished-Product.JPG" width="700">
